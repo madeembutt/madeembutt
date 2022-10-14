@@ -10,4 +10,3 @@ I'm proficient in the following languages:
 - Java
 - Python
 - SQL
-- C
